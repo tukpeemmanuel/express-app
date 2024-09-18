@@ -38,7 +38,6 @@ let stack = new Stack();
 // push elements into the stack
 stack.push(10);
 stack.push(20);
-stack.push(30);
 
 // print the stack
 console.log(stack.printStack()); // Output: 10 20 30
